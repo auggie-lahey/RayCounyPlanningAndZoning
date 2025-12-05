@@ -100,8 +100,25 @@ Except as otherwise expressly provided in other county codes or regulations, fen
 2. The fence or wall should have a minimum height of 36 inches.
 3. Swimming pools, hot tubs and spas shall be setback at least 5 feet from all side and rear property lines, as measured from the water's edge.
 
-### G. Solar Collectors
-[*Solar collector standards*]
+### H. Solar Collectors
+
+Solar collectors shall be permitted provided that the following performance standards are met:
+
+1. Roof-mounted residential building solar collectors located on front or side building roofs visible from the public right-of-way shall not extend above the peak of the roof plane where it is mounted and no portion of any such solar collector shall extend more than 24 inches as measured perpendicularly to the roof at the point where it is mounted.
+
+2. Roof-mounted residential building solar collectors located on the rear or interior side building roofs shall not extend above the peak of the roof plane where it is mounted and no portion of any such solar collector shall extend more than four feet as measured perpendicularly to the roof at the point where it is mounted.
+
+3. Ground-mounted solar collectors shall not exceed 8 feet in total height and shall be located within the rear yard at least 12 feet inside the property lines.
+
+4. All utility service lines serving a ground-mounted solar system shall be located underground.
+
+5. Any system incorporated into a nonresidential building shall be integrated into the basic form and main body of the building. If roof mounted, all collector panels shall fit into the form of the roof; if the building's roof is sloped or if "rack" mounting is used on a flat roof, the mounting must be concealed from view at street level. Exposed rack supports and freestanding collectors apart from the main building shall not be permitted.
+
+6. Roof mounted solar energy systems mounted on "accessory or detached buildings" are allowed on detached garages or swimming pool equipment buildings. Detached "greenhouses" are also acceptable. No freestanding panels or panel racks shall be allowed.
+
+7. If an active solar or photovoltaic solar system is utilized, all components servicing the collector panels shall be concealed including mechanical piping, electrical conduits, and the like.
+
+8. All exposed metal, including the framework of active collector panels or exposed mullions and framework of passive systems shall be colored to visually blend into the surroundings.
 
 ## 60.4 Temporary Uses
 
