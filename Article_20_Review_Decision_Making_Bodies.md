@@ -4,25 +4,25 @@
 The County Commission shall have all of the powers and duties specifically assigned in these Zoning Regulations, including the following:
 
 ### A. Zoning Regulations Text Amendments
-The County Commission shall be responsible for reviewing Zoning Regulations Text amendment applications and for taking final action to approve or deny such applications. (See [Article 30.2](#article-30-development-review-procedures))
+The County Commission shall be responsible for reviewing Zoning Regulations Text amendment applications and for taking final action to approve or deny such applications. (See [Article 30.2](Article_30_Development_Review_Procedures.md#302-zoning-regulation-text-amendments))
 
 ### B. Zoning District Map Amendments
-The County Commission shall be responsible for reviewing Zoning District Map Amendment applications and for taking final action to approve or deny such applications. (See [Article 30.3](#article-30-development-review-procedures))
+The County Commission shall be responsible for reviewing Zoning District Map Amendment applications and for taking final action to approve or deny such applications. (See [Article 30.3](Article_30_Development_Review_Procedures.md#303-zoning-district-map-amendments))
 
 ### C. Subdivisions
-The County Commission shall be responsible for reviewing subdivision plat applications and for taking final action to approve or deny such applications. (See [Article 30.4](#article-30-development-review-procedures))
+The County Commission shall be responsible for reviewing subdivision plat applications and for taking final action to approve or deny such applications. (See [Article 30.4](Article_30_Development_Review_Procedures.md#304-subdivision))
 
 ### D. Planned Developments
 
-1. **PUD Concept Plans** - The County Commission shall be responsible for reviewing PUD Concept Plan applications and for taking final action to approve or deny such applications. (See [Article 30.7](#article-30-development-review-procedures))
+1. **PUD Concept Plans** - The County Commission shall be responsible for reviewing PUD Concept Plan applications and for taking final action to approve or deny such applications. (See [Article 30.7](Article_30_Development_Review_Procedures.md#307-planned-unit-developments))
 
-2. **Final PUD Plans** - The County Commission shall be responsible for reviewing Final PUD Plan/Plat applications and for taking final action to approve or deny such applications. (See [Article 30.7](#article-30-development-review-procedures))
+2. **Final PUD Plans** - The County Commission shall be responsible for reviewing Final PUD Plan/Plat applications and for taking final action to approve or deny such applications. (See [Article 30.7](Article_30_Development_Review_Procedures.md#307-planned-unit-developments))
 
 ### E. Conditional Use Permits
-The County Commission shall be responsible for reviewing Conditional Use Permit applications and for taking final action to approve or deny such applications. (See [Article 30.8](#article-30-development-review-procedures))
+The County Commission shall be responsible for reviewing Conditional Use Permit applications and for taking final action to approve or deny such applications. (See [Article 30.8](Article_30_Development_Review_Procedures.md#308-conditional-use-permits))
 
 ### F. Vacations
-The County Commission shall be responsible for reviewing Vacations (e.g. utility easements, rights-of-way) applications and for taking final action to approve or deny such applications. (See [Article 30.11](#article-30-development-review-procedures))
+The County Commission shall be responsible for reviewing Vacations (e.g. utility easements, rights-of-way) applications and for taking final action to approve or deny such applications. (See [Article 30.11](Article_30_Development_Review_Procedures.md#3011-vacations))
 
 ### G. Comprehensive Plan
 The County Commission shall be responsible for reviewing and taking final action on amendments to the County Comprehensive Plan.
@@ -31,25 +31,25 @@ The County Commission shall be responsible for reviewing and taking final action
 The Planning and Zoning Commission shall have all of the powers and duties specifically assigned in these Zoning Regulations, including the following:
 
 ### A. Zoning Regulations Text Amendments
-The Planning and Zoning Commission shall be responsible for reviewing Zoning Regulations Text amendment applications and for making a recommendation on the applications to the County Commission. (See [Article 30.2](#article-30-development-review-procedures))
+The Planning and Zoning Commission shall be responsible for reviewing Zoning Regulations Text amendment applications and for making a recommendation on the applications to the County Commission. (See [Article 30.2](Article_30_Development_Review_Procedures.md#302-zoning-regulation-text-amendments))
 
 ### B. Zoning District Map Amendments
-The Planning and Zoning Commission shall be responsible for reviewing Zoning District Map Amendment applications and for making a recommendation on the applications to the County Commission. (See [Article 30.3](#article-30-development-review-procedures))
+The Planning and Zoning Commission shall be responsible for reviewing Zoning District Map Amendment applications and for making a recommendation on the applications to the County Commission. (See [Article 30.3](Article_30_Development_Review_Procedures.md#303-zoning-district-map-amendments))
 
 ### C. Subdivisions
-The Planning and Zoning Commission shall be responsible for reviewing Subdivision plat applications and for making a recommendation on the application to the County Commission. (See [Article 30.4](#article-30-development-review-procedures))
+The Planning and Zoning Commission shall be responsible for reviewing Subdivision plat applications and for making a recommendation on the application to the County Commission. (See [Article 30.4](Article_30_Development_Review_Procedures.md#304-subdivision))
 
 ### D. Planned Developments
 
-1. **PUD Concept Plans** - The Planning and Zoning Commission shall be responsible for reviewing PUD Concept Plan applications and for making a recommendation on the application to the County Commission. (See [Article 30.7](#article-30-development-review-procedures))
+1. **PUD Concept Plans** - The Planning and Zoning Commission shall be responsible for reviewing PUD Concept Plan applications and for making a recommendation on the application to the County Commission. (See [Article 30.7](Article_30_Development_Review_Procedures.md#307-planned-unit-developments))
 
-2. **Final PUD Plans** - The Planning and Zoning Commission shall be responsible for reviewing Final PUD Plan applications and for making a recommendation on the application to the County Commission. (See [Article 30.7](#article-30-development-review-procedures))
+2. **Final PUD Plans** - The Planning and Zoning Commission shall be responsible for reviewing Final PUD Plan applications and for making a recommendation on the application to the County Commission. (See [Article 30.7](Article_30_Development_Review_Procedures.md#307-planned-unit-developments))
 
 ### E. Conditional Use Permits
-The Planning and Zoning Commission shall be responsible for reviewing Conditional Use Permit applications and for making a recommendation on the application to the County Commission. (See [Article 30.8](#article-30-development-review-procedures))
+The Planning and Zoning Commission shall be responsible for reviewing Conditional Use Permit applications and for making a recommendation on the application to the County Commission. (See [Article 30.8](Article_30_Development_Review_Procedures.md#308-conditional-use-permits))
 
 ### F. Vacations
-The Planning and Zoning Commission shall be responsible for reviewing Vacations (e.g. utility easements, rights-of-way) applications and for making a recommendation on the application to the County Commission. (See [Article 30.11](#article-30-development-review-procedures))
+The Planning and Zoning Commission shall be responsible for reviewing Vacations (e.g. utility easements, rights-of-way) applications and for making a recommendation on the application to the County Commission. (See [Article 30.11](Article_30_Development_Review_Procedures.md#3011-vacations))
 
 ### G. Comprehensive Plan
 The Planning and Zoning Commission shall be responsible for reviewing amendments to the County Comprehensive Plan and recommending approval or denial to the County Commission.
@@ -82,12 +82,12 @@ Hearings of the Board of Zoning Adjustment shall be held at the call of the chai
 
 ### G. Powers and Duties
 
-1. **Variances** - The Board of Zoning Adjustment shall be responsible for reviewing Variance applications and for taking final action to approve or deny such applications. (See [Article 30.10](#article-30-development-review-procedures))
+1. **Variances** - The Board of Zoning Adjustment shall be responsible for reviewing Variance applications and for taking final action to approve or deny such applications. (See [Article 30.10](Article_30_Development_Review_Procedures.md#3010-variances))
 
-2. **Appeals of Administrative Decisions** - The Board of Zoning Adjustment shall be responsible for hearing all appeals of administrative decisions and for taking final action on such appeal. (See [Article 30.13](#article-30-development-review-procedures))
+2. **Appeals of Administrative Decisions** - The Board of Zoning Adjustment shall be responsible for hearing all appeals of administrative decisions and for taking final action on such appeal. (See [Article 30.13](Article_30_Development_Review_Procedures.md#3013-appeals-of-administrative-decisions))
 
 ### H. Appeals of the Board of Zoning Adjustment Decisions
-Appeals of the Board of Zoning Adjustment decisions shall be according to [Article 30.10D4](#article-30-development-review-procedures) and [30.13I](#article-30-development-review-procedures).
+Appeals of the Board of Zoning Adjustment decisions shall be according to [Article 30.10D4](Article_30_Development_Review_Procedures.md#d-approval-criteria) and [30.13I](Article_30_Development_Review_Procedures.md#c-appeals).
 
 ## 20.4 Planning and Zoning Administrator and Other Administrative Staff
 

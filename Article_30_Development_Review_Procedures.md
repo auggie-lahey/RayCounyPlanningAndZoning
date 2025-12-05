@@ -61,7 +61,7 @@ Review bodies may recommend and decision-making bodies may modify or allow amend
 [*County Commission decision procedures*]
 
 ### E. Approval Criteria
-In taking action on Zoning Regulations text amendments, review and decision-making bodies shall consider whether the proposed amendment advances the stated purpose and intent of [Article 10.7](#article-10-introductory-provisions).
+In taking action on Zoning Regulations text amendments, review and decision-making bodies shall consider whether the proposed amendment advances the stated purpose and intent of [Article 10.7](Article_10_Introductory_Provisions.md#107-purpose-and-intent).
 
 ## 30.3 Zoning District Map Amendments
 

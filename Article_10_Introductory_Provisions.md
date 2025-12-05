@@ -13,7 +13,7 @@ These Zoning Regulations shall apply to all development, public and private, wit
 These Zoning Regulations shall replace all Articles, Amendments and Ordinances of the Zoning Regulations of Ray County, Missouri, that existed before June 10, 2005.
 
 ## 10.5 Compliance Required
-It shall be unlawful to conduct any development or construct any structure until (1) all applicable development review and approval processes have been followed; (2) all applicable approvals have been obtained; and (3) all required permits or authorizations to proceed have been issued. Violations will be processed according to [Article 140](#article-140-violations-penalties-and-enforcement) of these Zoning Regulations.
+It shall be unlawful to conduct any development or construct any structure until (1) all applicable development review and approval processes have been followed; (2) all applicable approvals have been obtained; and (3) all required permits or authorizations to proceed have been issued. Violations will be processed according to [Article 140](Article_140_Violations_Penalties_Enforcement.md) of these Zoning Regulations.
 
 ## 10.6 Minimum Requirements
 The standards of these Zoning Regulations are minimum requirements. The issuance of any permit, certificate or approval in accordance with the standards and requirements of these Zoning Regulations shall not relieve the recipient of the responsibility for complying with all other applicable requirements of any other county, state or federal agency.
@@ -144,7 +144,7 @@ Any violation of the previous zoning, subdivision or sign regulations of the cou
 The zoning district names in effect before June 10, 2005 remain the same after June 10, 2005.
 
 ### D. Conditional Uses
-Any use that was legally established before June 10, 2005 without a Conditional Use Permit and which after June 10, 2005 would require a Conditional Use Permit, shall not be deemed a nonconforming use but rather shall be deemed to possess a Conditional Use Permit (without following the procedures of [Article 30.8](#article-30-development-review-procedures)). This provision shall not apply to mobile homes or manufactured housing units.
+Any use that was legally established before June 10, 2005 without a Conditional Use Permit and which after June 10, 2005 would require a Conditional Use Permit, shall not be deemed a nonconforming use but rather shall be deemed to possess a Conditional Use Permit (without following the procedures of [Article 30.8](Article_30_Development_Review_Procedures.md#308-conditional-use-permits)). This provision shall not apply to mobile homes or manufactured housing units.
 
 ## 10.14 Severability
 
