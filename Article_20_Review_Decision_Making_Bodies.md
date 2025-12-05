@@ -19,10 +19,10 @@ The County Commission shall be responsible for reviewing subdivision plat applic
 2. **Final PUD Plans** - The County Commission shall be responsible for reviewing Final PUD Plan/Plat applications and for taking final action to approve or deny such applications. (See [Article 30.7](#article-30-development-review-procedures))
 
 ### E. Conditional Use Permits
-The County Commission shall be responsible for reviewing Conditional Use Permit applications and for taking final action to approve or deny such applications. (See [Article 30.9](#article-30-development-review-procedures))
+The County Commission shall be responsible for reviewing Conditional Use Permit applications and for taking final action to approve or deny such applications. (See [Article 30.8](#article-30-development-review-procedures))
 
 ### F. Vacations
-The County Commission shall be responsible for reviewing Vacations (e.g. utility easements, rights-of-way) applications and for taking final action to approve or deny such applications. (See [Article 30.12](#article-30-development-review-procedures))
+The County Commission shall be responsible for reviewing Vacations (e.g. utility easements, rights-of-way) applications and for taking final action to approve or deny such applications. (See [Article 30.11](#article-30-development-review-procedures))
 
 ### G. Comprehensive Plan
 The County Commission shall be responsible for reviewing and taking final action on amendments to the County Comprehensive Plan.
@@ -46,10 +46,10 @@ The Planning and Zoning Commission shall be responsible for reviewing Subdivisio
 2. **Final PUD Plans** - The Planning and Zoning Commission shall be responsible for reviewing Final PUD Plan applications and for making a recommendation on the application to the County Commission. (See [Article 30.7](#article-30-development-review-procedures))
 
 ### E. Conditional Use Permits
-The Planning and Zoning Commission shall be responsible for reviewing Conditional Use Permit applications and for making a recommendation on the application to the County Commission. (See [Article 30.9](#article-30-development-review-procedures))
+The Planning and Zoning Commission shall be responsible for reviewing Conditional Use Permit applications and for making a recommendation on the application to the County Commission. (See [Article 30.8](#article-30-development-review-procedures))
 
 ### F. Vacations
-The Planning and Zoning Commission shall be responsible for reviewing Vacations (e.g. utility easements, rights-of-way) applications and for making a recommendation on the application to the County Commission. (See [Article 30.12](#article-30-development-review-procedures))
+The Planning and Zoning Commission shall be responsible for reviewing Vacations (e.g. utility easements, rights-of-way) applications and for making a recommendation on the application to the County Commission. (See [Article 30.11](#article-30-development-review-procedures))
 
 ### G. Comprehensive Plan
 The Planning and Zoning Commission shall be responsible for reviewing amendments to the County Comprehensive Plan and recommending approval or denial to the County Commission.
@@ -82,12 +82,12 @@ Hearings of the Board of Zoning Adjustment shall be held at the call of the chai
 
 ### G. Powers and Duties
 
-1. **Variances** - The Board of Zoning Adjustment shall be responsible for reviewing Variance applications and for taking final action to approve or deny such applications. (See [Article 30.11](#article-30-development-review-procedures))
+1. **Variances** - The Board of Zoning Adjustment shall be responsible for reviewing Variance applications and for taking final action to approve or deny such applications. (See [Article 30.10](#article-30-development-review-procedures))
 
-2. **Appeals of Administrative Decisions** - The Board of Zoning Adjustment shall be responsible for hearing all appeals of administrative decisions and for taking final action on such appeal. (See [Article 30.14](#article-30-development-review-procedures))
+2. **Appeals of Administrative Decisions** - The Board of Zoning Adjustment shall be responsible for hearing all appeals of administrative decisions and for taking final action on such appeal. (See [Article 30.13](#article-30-development-review-procedures))
 
 ### H. Appeals of the Board of Zoning Adjustment Decisions
-Appeals of the Board of Zoning Adjustment decisions shall be according to [Article 30.11D4](#article-30-development-review-procedures) and [30.14I](#article-30-development-review-procedures).
+Appeals of the Board of Zoning Adjustment decisions shall be according to [Article 30.10D4](#article-30-development-review-procedures) and [30.13I](#article-30-development-review-procedures).
 
 ## 20.4 Planning and Zoning Administrator and Other Administrative Staff
 

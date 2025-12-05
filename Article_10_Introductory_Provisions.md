@@ -144,7 +144,7 @@ Any violation of the previous zoning, subdivision or sign regulations of the cou
 The zoning district names in effect before June 10, 2005 remain the same after June 10, 2005.
 
 ### D. Conditional Uses
-Any use that was legally established before June 10, 2005 without a Conditional Use Permit and which after June 10, 2005 would require a Conditional Use Permit, shall not be deemed a nonconforming use but rather shall be deemed to possess a Conditional Use Permit (without following the procedures of [Article 30.9](#article-30-development-review-procedures)). This provision shall not apply to mobile homes or manufactured housing units.
+Any use that was legally established before June 10, 2005 without a Conditional Use Permit and which after June 10, 2005 would require a Conditional Use Permit, shall not be deemed a nonconforming use but rather shall be deemed to possess a Conditional Use Permit (without following the procedures of [Article 30.8](#article-30-development-review-procedures)). This provision shall not apply to mobile homes or manufactured housing units.
 
 ## 10.14 Severability
 

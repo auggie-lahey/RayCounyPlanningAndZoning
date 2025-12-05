@@ -17,7 +17,7 @@ A number in the final ("Use Standards") column indicates that the listed use typ
 A blank cell indicates that a use type is not allowed in the respective zoning district, unless it is otherwise expressly allowed by other regulations of these Zoning Regulations.
 
 ### New or Unlisted Uses
-If an application is submitted for a use type that is not listed as an allowed use in one or more zoning districts, the Planning and Zoning Administrator shall be authorized to make a similar use interpretation in accordance with [Article 30.13](#article-30-development-review-procedures). In the event that a similar use interpretation cannot be made, the proposed use type shall be allowed as a conditional use in the I-1 district and as a use permitted by-right in the I-2 district.
+If an application is submitted for a use type that is not listed as an allowed use in one or more zoning districts, the Planning and Zoning Administrator shall be authorized to make a similar use interpretation in accordance with [Article 30.12](#article-30-development-review-procedures). In the event that a similar use interpretation cannot be made, the proposed use type shall be allowed as a conditional use in the I-1 district and as a use permitted by-right in the I-2 district.
 
 ## 60.2 Use Standards
 

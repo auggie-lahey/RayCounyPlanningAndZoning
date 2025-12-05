@@ -244,7 +244,7 @@ Applications for Written Interpretations of the provisions of these Zoning Regul
 Within 30 days of receipt of a complete application for a Written Interpretation, the Planning and Zoning Administrator shall: (1) review and evaluate the application in light of the text of these Zoning Regulations, the Official Zoning District Maps, the Comprehensive Plan and any other relevant documents; (2) consult with County Counsel and other staff as needed; and (3) render a written interpretation.
 
 ### C. Appeals
-Appeals of the Planning and Zoning Administrator's written interpretation may be taken to the Board of Zoning Adjustment in accordance with the procedures of Article 30.14.
+Appeals of the Planning and Zoning Administrator's written interpretation may be taken to the Board of Zoning Adjustment in accordance with the procedures of Article 30.13.
 
 ## 30.13 Appeals of Administrative Decisions
 
