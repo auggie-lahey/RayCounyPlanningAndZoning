@@ -178,12 +178,22 @@ The following table shows which uses are allowed in the R-1 district. For a summ
 ### C. Density and Dimensional Standards
 
 1. **Conventional Development** - The following standards apply to all Conventional (residential and nonresidential) development in the R-1 district:
-   - **Minimum lot size:** 9 acres
+
+| Standard | Requirement |
+|----------|-------------|
+| Minimum lot size | 9 acres |
+| Minimum lot width | 300 feet* |
+| Minimum front/street side setback | 50 feet |
+| Minimum interior side setback | 25 feet |
+| Minimum rear setback | 50 feet |
+
+*Shared driveways excepted
 
 2. **Open Space Development** - Open Space may be included in all residential developments with specific conditions.
 
-For complete dimensional standards, see the table in Section 40.16 below.
+**Maximum Building Height** - See Section 40.16 for complete dimensional standards.
 
+For complete dimensional standards, see the table in Section 40.16 below.
 ## 40.5 R-1A Residential Low Density District
 
 ### A. Description
