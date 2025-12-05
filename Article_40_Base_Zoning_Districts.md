@@ -114,10 +114,24 @@ The following table shows which uses are allowed in the R-A district. For a summ
 | Vineyard | P | |
 | Zoological, Public or Private | C | Subject to 60.2D-7 |
 
-### C. Density and Dimensional Standards
-**Minimum lot size:** 19 acres
 
-For complete dimensional standards, see the table in Section 40.16 below.
+### C. Density and Dimensional Standards
+
+The following standards shall apply to all development in the R-A district:
+
+| Standard | Requirement |
+|----------|-------------|
+| Minimum lot size | 19 acres |
+| Minimum lot width | 300 feet |
+| Minimum front/street side setback | 50 feet |
+| Minimum interior side setback | 25 feet |
+| Minimum rear setback | 50 feet |
+| **Maximum building height** | |
+| - Principal structures | 40 feet |
+| - Farm structures | No limit |
+| - Non-farm accessory structures | 30 feet |
+
+For complete dimensional standards for all districts, see Section 40.16 below.
 
 ## 40.4 R-1 Residential Rural District
 
