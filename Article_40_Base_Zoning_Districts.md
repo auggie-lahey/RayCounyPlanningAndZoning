@@ -6,7 +6,22 @@ The following base zoning districts are hereby established:
 
 **Figure 40.1 - Base Zoning Districts**
 
-**See: [Base Zoning Districts](tables/base_zoning_districts.md)**
+| District | District Name | Type | Development Zone |
+| --- | --- | --- | --- |
+| R-A | Agricultural District | Agricultural | Rural Low Density |
+| R-1 | Residential Rural District | Residential | Rural Low Density |
+| R-1A | Residential Low Density District | Residential | Low Density |
+| R-1B | Residential Urban District | Residential | Urban Density |
+| R-2 | Residential Duplex District | Residential | Urban Density |
+| R-3 | Residential Multi-Unit District | Residential | Urban Density |
+| R-MHP | Mobile Home Park | Residential | Urban Density |
+| S & O | Service and Office District | Commercial | All |
+| B-1 | Community Business District | Commercial | Urban Density |
+| B-2 | General Business District | Commercial | Urban Density |
+| I-1 | Limited Industrial District | Industrial | All |
+| I-2 | General Industrial District | Industrial | All |
+| PUD | Planned Unit Development | Mixed-Use | All |
+| OP | Open Space/Park/Public Uses | Public | All |
 
 - **R-A** - Agricultural District
 - **R-1** - Residential Rural District  
@@ -34,12 +49,75 @@ References in these Zoning Regulations to less restrictive or more restrictive z
 The agricultural district (R-A) is primarily intended to help retain large tracts of land for agricultural and open space purposes and to minimize conflicts between agricultural uses and adjacent development. It is possible that parts of this district will change to more intense urban zoning districts as utility services are extended. Minimum lot area in R-A zoning shall be 19 acres, and shall have one single family residence.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the R-A district. For a summary of uses allowed in all zoning districts, see [Article 60.1](#article-60-use-regulations). 
+The following table shows which uses are allowed in the R-A district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table). 
 - P = Permitted by-right
-- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](#article-30-development-review-procedures))
+- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
+
+| Use Type | R-A | Standards |
+|----------|-----|-----------|
+| **Residential** | | |
+| Group Home, Class I (General) | C | |
+| Group Home, Class I (Limited) | C | |
+| House, Detached | P | |
+| Mobile Home | C | Subject to 40.9D6 |
+| **Civic/Institutional** | | |
+| Cemetery | C | RSMo 214 |
+| Club or Lodge | C | |
+| College or University | C | |
+| Community Recreation, Private | P | |
+| Day Care, Family (1-5 children/adults) | P | |
+| Day Care, Group (6 or more children/adults) | C | |
+| Parks & Recreation | P | |
+| Religious Assembly, standard | P | |
+| Religious Assembly, mega | C | |
+| Safety Services | P | |
+| School, Primary | P | |
+| School, Secondary | P | |
+| Utility Service, Major | C | |
+| Utility Service, Minor | P | |
+| **Commercial** | | |
+| Agricultural Sales/Services | C | |
+| Animal Services | C | |
+| Archery Range | C | |
+| Bed and Breakfast | C | Subject to 60.2K |
+| Cabins | C | Subject to 60.2M |
+| Campground/Recreational Vehicle Park | C | Subject to 60.2N |
+| Communications Towers, Commercial | C | Subject to 60.2G |
+| Firearm Sales (only with shooting range) | C | Subject to 60.2T |
+| Funeral Services | C | |
+| Greenhouse, Nursery (Wholesale & Retail) | C | |
+| Guest House, for rent | P | Subject to 60.3C |
+| Kennel | C | Subject to 60.2W |
+| Landscaping and Lawn Care Services | C | |
+| Marina | C | |
+| Motorized Vehicle Tracks | C | Subject to 60.2P |
+| Organic Recycling | P | |
+| Recreational Equipment Storage | C | Subject to 60.2R |
+| Recreational Entertainment, Outdoor | C | |
+| Shooting Range | C | Subject to 60.2T |
+| Stable, Training and Riding, Public | C | |
+| Veterinary Services | C | Subject to 60.2W |
+| **Agricultural and Other Uses** | | |
+| Accessory Apartment | P | Subject to 60.3A |
+| Accessory Dwelling Units | P | Subject to 60.3A |
+| Accessory Structure | P | Subject to 60.3B |
+| Air Strip, Private | C | Subject to FAA Regs. |
+| Animal Production | P | Subject to 60.2E |
+| Animal Refuge, Public or Private | C | Subject to 60.2D-7 |
+| Communications Antenna, Amateur | P | Subject to 60.2F |
+| Crop Production | P | |
+| Feedlot Operations | C | Subject to 60.2E |
+| Guest House, Private | P | Subject to 60.3A & 60.3C |
+| Horticulture | P | |
+| Soil Excavation | C | DNR Permit |
+| Stable, Private Boarding | P | |
+| Vineyard | P | |
+| Zoological, Public or Private | C | Subject to 60.2D-7 |
 
 ### C. Density and Dimensional Standards
 **Minimum lot size:** 19 acres
+
+For complete dimensional standards, see the table in Section 40.16 below.
 
 ## 40.4 R-1 Residential Rural District
 
@@ -47,9 +125,41 @@ The following table shows which uses are allowed in the R-A district. For a summ
 The Residential Rural district (R-1) is primarily intended to accommodate very low density residential development, at density not to exceed 1 dwelling unit per 9.0 acres. The purpose of the district is to provide residential areas where property owners can maintain a limited number of animals and accessory buildings in a quiet rural setting without maintaining an agricultural operation.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the R-1 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](#article-60-use-regulations).
+The following table shows which uses are allowed in the R-1 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
-- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](#article-30-development-review-procedures))
+- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
+
+| Use Type | R-1 | Standards |
+|----------|-----|-----------|
+| **Residential** | | |
+| Group Home, Class I (General) | C | |
+| Group Home, Class I (Limited) | C | |
+| House, Detached | P | |
+| **Civic/Institutional** | | |
+| Cemetery | C | RSMo 214 |
+| Community Recreation, Private | P | |
+| Day Care, Family (1-5 children/adults) | P | |
+| Day Care, Group (6 or more children/adults) | C | |
+| Parks & Recreation | P | |
+| Religious Assembly, standard | P | |
+| Religious Assembly, mega | C | |
+| Safety Services | P | |
+| School, Primary | P | |
+| School, Secondary | C | |
+| Utility Service, Major | C | |
+| Utility Service, Minor | P | |
+| **Commercial** | | |
+| Bed and Breakfast | C | Subject to 60.2K |
+| Funeral Services | C | |
+| Stable, Riding and Training, Public | C | |
+| **Agricultural and Other Uses** | | |
+| Accessory Apartments | P | Subject to 60.3A |
+| Accessory Dwelling Units | P | Subject to 60.3A |
+| Accessory Structures | P | Subject to 60.3B |
+| Communications Antenna, Amateur | P | Subject to 60.2F |
+| Crop Production | P | |
+| Guest House, Private | P | Subject to 60.3A & 60.3C |
+| Horticulture | P | |
 
 ### C. Density and Dimensional Standards
 
@@ -58,15 +168,17 @@ The following table shows which uses are allowed in the R-1 district. For a summ
 
 2. **Open Space Development** - Open Space may be included in all residential developments with specific conditions.
 
+For complete dimensional standards, see the table in Section 40.16 below.
+
 ## 40.5 R-1A Residential Low Density District
 
 ### A. Description
 The Residential Low Density district (R-1A) is primarily intended to accommodate low density residential development, at a density not to exceed 1 dwelling unit per 3 acres. The purpose of the district is to provide a transition between rural and higher density areas.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the R-1A district. For a summary of uses allowed in all zoning districts, see [Article 60.1](#article-60-use-regulations).
+The following table shows which uses are allowed in the R-1A district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
-- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](#article-30-development-review-procedures))
+- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
 ### C. Density and Dimensional Standards
 
@@ -80,6 +192,8 @@ The following table shows which uses are allowed in the R-1A district. For a sum
    - d. Open Space may be utilized for active or passive recreation purposes for the development
    - e. Open Space should be accessible from all lots within the subdivision
 
+For complete dimensional standards, see the table in Section 40.16 below.
+
 ## 40.6 R-1B Residential Urban District
 
 ### A. Description
@@ -88,13 +202,13 @@ The Residential Urban district (R-1B) is primarily intended to accommodate urban
 The R-1B district is appropriate for application only where a central sewage treatment and water system are available.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the R-1B district. For a summary of uses allowed in all zoning districts, see [Article 60.1](#article-60-use-regulations).
+The following table shows which uses are allowed in the R-1B district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
-- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](#article-30-development-review-procedures))
+- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
 ### C. Density and Dimensional Standards
 The following standards apply to all residential and nonresidential development in the R-1B district:
-- **Minimum lot size:** [*Standards not fully specified in source document*]
+- **Minimum lot size:** 12,000 square feet (houses), see table in Section 40.16 for complete standards.
 
 ## 40.7 R-2 Residential Duplex District
 
@@ -102,13 +216,12 @@ The following standards apply to all residential and nonresidential development 
 The Residential Duplex district (R-2) is primarily intended to accommodate urban density residential development in areas where the full range of urban services are available. The R-2 district is appropriate for application only where a central sewage treatment and water system are available.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the R-2 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](#article-60-use-regulations).
+The following table shows which uses are allowed in the R-2 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
-- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](#article-30-development-review-procedures))
+- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
 ### C. Density and Dimensional Standards
-The following standards apply to all residential and nonresidential development in the R-2 district:
-- **Minimum Lot Size:** [*Standards not fully specified in source document*]
+The following standards apply to all residential and nonresidential development in the R-2 district. See the table in Section 40.16 for complete standards.
 
 ## 40.8 R-3 Residential Multi-Unit District
 
@@ -118,13 +231,12 @@ The Residential Multi-Unit district (R-3) is primarily intended to accommodate u
 The R-3 district is appropriate for application only where a central sewage treatment and water system are available.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the R-3 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](#article-60-use-regulations).
+The following table shows which uses are allowed in the R-3 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
-- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](#article-30-development-review-procedures))
+- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
 ### C. Density and Dimensional Standards
-The following standards apply to all residential and nonresidential development in the R-3 district:
-- **Minimum Lot Size:** [*Standards not fully specified in source document*]
+The following standards apply to all residential and nonresidential development in the R-3 district. See the table in Section 40.16 for complete standards.
 
 ## 40.9 R-MHP Residential Mobile Home Park District
 
@@ -132,9 +244,9 @@ The following standards apply to all residential and nonresidential development 
 The Residential Mobile Home Park district (R-MHP) is primarily intended to accommodate the grouping of mobile homes within mobile home parks on spaces rented or leased to the occupant of the manufactured housing unit. The district is intended to provide a safe and healthy living environment; to assure the compatibility with nearby land uses and to promote affordable housing opportunities, consistent with the provisions of the Comprehensive Plan.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the R-MHP district. For a summary of uses allowed in all zoning districts, see [Article 60.1](#article-60-use-regulations).
+The following table shows which uses are allowed in the R-MHP district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
-- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](#article-30-development-review-procedures))
+- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
 ### C. General Standards
 
@@ -171,7 +283,7 @@ The following table shows which uses are allowed in the R-MHP district. For a su
 4. **Sewer and Water** - Every space within a mobile home park shall be provided with public sanitary sewer and public water service with all utility lines constructed in accordance with county approved plumbing, sanitary, and construction codes.
 
 ### F. Mobile Home Park Approval Procedure
-An application for R-MHP zoning shall be processed as a Zoning District Map amendment in accordance with the procedures of [Article 30.3](#article-30-development-review-procedures).
+An application for R-MHP zoning shall be processed as a Zoning District Map amendment in accordance with the procedures of [Article 30.3](Article_30_Development_Review_Procedures.md#303-zoning-district-map-amendments).
 
 ## 40.10 S&O Service & Office District
 
@@ -181,12 +293,12 @@ The Service & Office District (S&O) is intended to accommodate limited retail, s
 The S&O district is appropriate for application in the Rural Density, Low Density or Urban Density Development.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the S&O district. For a summary of uses allowed in all zoning districts, see [Article 60.1](#article-60-use-regulations).
+The following table shows which uses are allowed in the S&O district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
-- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](#article-30-development-review-procedures))
+- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
 ### C. Density and Dimensional Standards
-- **Minimum lot size:** [*Standards not fully specified in source document*]
+See the table in Section 40.16 for complete standards.
 
 ### D. Other Regulations
 
@@ -202,12 +314,12 @@ The Community Business District (B-1) is intended to accommodate retail sales, s
 The B-1 district is appropriate for application in the Urban Density Development. Full urban services are required for uses in the B-1 district (i.e. central sewer treatment and water system).
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the B-1 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](#article-60-use-regulations).
+The following table shows which uses are allowed in the B-1 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
-- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](#article-30-development-review-procedures))
+- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
 ### C. Density and Dimensional Standards
-- **Minimum lot size:** [*Standards not fully specified in source document*]
+See the table in Section 40.16 for complete standards.
 
 ### D. Other Regulations
 
@@ -223,12 +335,12 @@ The General Business District (B-2) is intended to accommodate moderate- to high
 The B-2 district is appropriate for application in the Urban Density Development. Full urban services are required for uses in the B-2 district (i.e. central sewage treatment and water system).
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the B-2 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](#article-60-use-regulations).
+The following table shows which uses are allowed in the B-2 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
-- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](#article-30-development-review-procedures))
+- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
 ### C. Density and Dimensional Standards
-- **Minimum lot size:** [*Standards not fully specified in source document*]
+See the table in Section 40.16 for complete standards.
 
 ### D. Other Regulations
 
@@ -243,12 +355,12 @@ The Limited Industrial district (I-1) is intended to accommodate research and de
 The I-1 district is appropriate for application in the Urban Density Development. This district may also be appropriate for application in the Rural and Low Density Development for low-intensity uses located on collector or arterial roads that are adequately buffered from adjacent residential districts.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the I-1 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](#article-60-use-regulations).
+The following table shows which uses are allowed in the I-1 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
-- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](#article-30-development-review-procedures))
+- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
 ### C. Density and Dimensional Standards
-- **Minimum lot size:** [*Standards not fully specified in source document*]
+See the table in Section 40.16 for complete standards.
 
 ### D. Other Regulations
 1. All uses shall be so operated as to comply with all applicable state and federal standards governing radiation, smoke, dust, particulate matter, toxic or noxious waste materials.
@@ -261,12 +373,12 @@ The General Industrial district (I-2) is intended to accommodate intense industr
 The I-2 district is appropriate for application in the Rural, Low or Urban Density Development, provided that uses are adequately buffered from residential areas and commercial properties that are used by the general public.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the I-2 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](#article-60-use-regulations).
+The following table shows which uses are allowed in the I-2 district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
-- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](#article-30-development-review-procedures))
+- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
 ### C. Density and Dimensional Standards
-- **Minimum lot size:** [*Standards not fully specified in source document*]
+See the table in Section 40.16 for complete standards.
 
 ### D. Other Regulations
 
@@ -283,9 +395,9 @@ The Open Space and Parks (OP) district is intended to accommodate areas reserved
 The OP District is appropriate for application in all development of the Comprehensive Plan.
 
 ### B. Use Regulations
-The following table shows which uses are allowed in the OP district. For a summary of uses allowed in all zoning districts, see [Article 60.1](#article-60-use-regulations).
+The following table shows which uses are allowed in the OP district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
-- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](#article-30-development-review-procedures))
+- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
 ### C. Density and Dimensional Standards
 There are no set standards for density and dimensions that shall apply in the OP District.
@@ -295,3 +407,41 @@ There are no set standards for density and dimensions that shall apply in the OP
 1. All uses within the OP district shall be owned by a public entity and constructed with public and/or foundation funds.
 2. Specific uses may be operated by contract, rather than by government staff.
 3. Conditional Use Permits are required on uses that may have more significant impacts on neighboring uses, environmental concerns, traffic generation, impervious surfaces, and require more in-depth review.
+
+## 40.16 Density and Dimensional Standards for Base Zoning Districts
+
+The following table provides the complete density and dimensional standards for all base zoning districts:
+
+|  | R-A | R-1 | R-1A | R-1B | R-2 | R-3 | S&O | B-1 | B-2 | I-1 | I-2 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Minimum Lot Area (sq. ft.)** |  |  |  |  |  |  |  |  |  |  |  |
+| House | 19 Ac. | 9 Ac. | 3 Ac. | 12,000 | 8,000 | 8,000 | [4] | N/A | N/A | N/A | N/A |
+| Duplex | N/A | N/A | N/A | N/A | 12,000 | 12,000 | [4] | N/A | N/A | N/A | N/A |
+| Multi-Unit | N/A | N/A | N/A | N/A | N/A | 8,000 [3] | N/A | [5] | [5] | N/A | N/A |
+| Other | 19 Ac. | 9 Ac. | 3 Ac. | 12,000 | 8,000 | 8,000 | 20,000 | 40,000 | 40,000 | 60,000 | 80,000 |
+| **Min. Lot Width (ft.)** | 300 | 300 | 300 [2] | 80 | 70 | 70 | 150 | 150 | 150 | 200 | 300 |
+| **Minimum Setbacks (ft.)** |  |  |  |  |  |  |  |  |  |  |  |
+| Front/Street Side | 50 | 50 | 50 | 35 | 35 | 35 | 35 | 25 | 25 | 35 | 50 |
+| Interior Side | 25 | 25 | 25 | 10 | 10 | 10 | 25 | 25 | 25 | 30 | 40 |
+| Rear | 50 | 50 | 25 | 35 | 35 | 25 | 25 | 25 | 25 | 40 | 50 |
+| **Maximum Building Height (ft.)** |  |  |  |  |  |  |  |  |  |  |  |
+| Principal/Access [1] | 40/30 | 40/30 | 40/30 | 35/30 | 35/30 | 40/20 | 35/35 | 40/40 | 40/40 | 45/45 | 45/45 |
+| **Minimum Residential Living Area (sq. ft.)** |  |  |  |  |  |  |  |  |  |  |  |
+| 1-Story | N/A | 1,000 | 1,000 | 1,000 | 1,000 | 1,000 | 1,000 | 1,000 | 1,000 | N/A | N/A |
+| Other | N/A | 1,400 | 1,400 | 1,400 | 1,400 | 1,400 | 1,400 | 1,400 | 1,400 | N/A | N/A |
+| **Max. Build. Cover (%)** | N/A | N/A | N/A | N/A | N/A | N/A | 60 | 70 | 70 | 50 | 50 |
+| **Max. Floor Area** | N/A | N/A | N/A | N/A | N/A | N/A | 10,000 | 30,000 | N/A | N/A | N/A |
+
+### Table Notes
+
+[1] No height limit for farm structures unless regulated by airport height regulations.
+
+[2] Lots with an area of 3 to 4 acres located on interior subdivision streets shall be subject to a minimum lot width of 200 feet at the building line. All other lots shall be subject to a minimum lot width of 300 feet.
+
+[3] For first dwelling unit; plus 4,300 square feet for each additional unit beyond the first.
+
+[4] Residential uses in S&O district are subject to R-2 district (conventional) standards.
+
+[5] Residential uses in B-1 and B-2 districts are subject to R-3 district (conventional) standards.
+
+[6] Nonconforming parcels in R-A or R-1 zoned prior to 2005 are exempt from minimum lot area requirements.
