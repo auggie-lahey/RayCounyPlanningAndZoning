@@ -1,5 +1,3 @@
-hello world
-
 # Article 40 - Base Zoning Districts
 
 ## 40.1 Establishment of Base Zoning Districts
