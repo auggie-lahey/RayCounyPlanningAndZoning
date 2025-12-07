@@ -764,13 +764,111 @@ The following table shows which uses are allowed in the B-2 district. For a summ
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
+| Use Category | Use Type | B-2 | Notes |
+|-------------|----------|-----|-------|
+| **Residential** | | | |
+| | Congregate Living | C | |
+| | Group Home, Class I (General) | C | |
+| | Group Home, Class II | C | |
+| | Transitional Housing | C | |
+| **Civic/Institutional** | | | |
+| | Cemetery | C | RSMo.214 |
+| | Club or Lodge | P | |
+| | College or University | P | |
+| | Cultural Services | P | |
+| | Day Care, Group (6 or more Children/Adults) | P | |
+| | Guidance Service | P | |
+| | Hospital | C | |
+| | Parks & Recreation | P | |
+| | Postal Facility | P | |
+| | Recycling Collection, Drop-Off | C | |
+| | Religious Assembly, standard | P | |
+| | Religious Assembly, mega | P | |
+| | Residential Treatment Facility | C | |
+| | Safety Services | P | |
+| | School, Primary | C | |
+| | School, Secondary | C | |
+| | Utility Service, Major | C | |
+| | Utility Service, Minor | P | |
+| **Commercial** | | | |
+| | Adult Use | C | |
+| | Agricultural Sales/Service | P | |
+| | Animal Services | P | |
+| | Bar or Lounge | P | |
+| | Business or Trade School | P | |
+| | Cabins | P | Subject to 60.2M |
+| | Campground/Recreational Vehicle Park | P | Subject to 60.2N |
+| | Communication Towers, Commercial | P | Subject to 60.2G |
+| | Construction Sales/Services | P | |
+| | Convenience Store | P | |
+| | Financial Services, with drive-through | P | |
+| | Financial Services, without drive-through | P | |
+| | Firearm Sales, retail | P | |
+| | Food Sales | P | |
+| | Funeral Services | P | |
+| | Greenhouse, Retail | P | |
+| | Greenhouse, Wholesale | P | |
+| | Hotel-Motel | P | |
+| | Kennel | P | Subject to 60.2W |
+| | Landscaping and Lawn Care Service | P | |
+| | Liquor Sales | P | |
+| | Marina | P | |
+| | Office | P | |
+| | Parking, Commercial | P | |
+| | Pawn Shop | P | |
+| | Personal Improvement Service | P | |
+| | Recreational Equipment Storage (Commercial) | C | Subject to 60.2R |
+| | Recreation & Entertainment, Indoor | P | |
+| | Recreation & Entertainment, Outdoor | P | |
+| | Repair Service, Consumer | P | |
+| | Restaurant, Fast Food | P | |
+| | Restaurant, General | P | |
+| | Retail Sales & Service, Convenience | P | |
+| | Retail Sales & Service, General | P | |
+| | Self-Service Storage | P | |
+| | Service Station | P | |
+| | Shooting Range | C | Subject to 60.2T |
+| | Vehicle Repair, General | P | |
+| | Vehicle Sales/Rental | P | |
+| | Vehicle Service, Limited | P | |
+| | Vehicle Storage | P | |
+| | Veterinary Services | P | Subject to 60.2W |
+| **Industrial** | | | |
+| | Wholesale Sales | C | |
+| **Agricultural and Other Uses** | | | |
+| | Accessory Apartments | P | Subject to 60.3A |
+| | Animal Production | P | Subject to 60.2E |
+| | Crop Production | P | |
+
 ### C. Density and Dimensional Standards
-See the table in Section 40.16 for complete standards.
+The following standards shall apply in the B-2 district:
+
+| Standard | Requirement |
+|----------|-------------|
+| Minimum lot size | 40,000 square feet |
+| Minimum lot width | 150 feet |
+| Minimum front/street side setback | 25 feet |
+| Minimum interior side setback | 25 feet |
+| Minimum rear setback | 25 feet |
+| Maximum building height (principal/accessory) | 40/40 feet |
+| Maximum building cover | 85 percent |
+| Maximum gross floor area | None |
+| Accessory structures | Subject to 60.3B |
 
 ### D. Other Regulations
+The following additional regulations shall apply in the B-2 district.
 
-1. Lighting sources shall be designed and located so that the direct source of the light is shielded from view at all property lines abutting residential or agricultural zoning districts.
-2. Storage of items shall not constitute warehousing or distribution in the normal sense but shall be limited to that quantity of stock necessary to the normal administrative, service and sales functions.
+1. No vehicle, other than a passenger vehicle or light truck, may be stored or parked in areas visible from off-site for more than 48 consecutive hours.
+
+2. Lighting sources shall be designed and located so that the direct source of the light is shielded from view at all property lines abutting residential or agricultural zoning districts.
+
+3. Storage of items shall not constitute warehousing or distribution in the normal sense but shall be limited to that quantity of stock necessary to the normal administrative, service and sales functions.
+
+4. Any loading dock or loading area shall be fully screened from any property zoned agricultural or residential within 300 feet.
+
+5. Premises selling alcoholic or cereal malt beverages for on-premise consumption shall be located at least 200 feet from any property zoned residential or agricultural and 500 feet from buildings occupied as a church or school of general instruction. However, if any residential, church or school of general instruction use is established after such premises have been licensed for selling alcoholic or cereal malt beverages for on-premise consumption, then such premises shall be deemed to comply with this sub-Article for licensing certification. Measurements shall be made between the exterior wall of the principal building in which alcoholic or cereal malt beverages are offered for on-premise consumption and the nearest property line of the existing property occupied as a church or school of general instruction or zoned residential or agricultural.
+
+6. If a B-2 district abuts a residential or agricultural district, a solid screen fence of at least 6 feet in height, or equivalent landscaped buffer, may be required if deemed necessary by the County Commission upon recommendation of the Planning and Zoning Commission.
 
 ## 40.13 I-1 Limited Industrial District
 
@@ -784,11 +882,110 @@ The following table shows which uses are allowed in the I-1 district. For a summ
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
+| Use Category | Use Type | I-1 | Notes |
+|-------------|----------|-----|-------|
+| **Residential** | | | |
+| | Transitional Housing | C | |
+| **Civic/Institutional** | | | |
+| | Cemetery | C | RSMo.214 |
+| | College or University | P | |
+| | Day Care, Commercial (21+ children/adults) | P | |
+| | Detention Facilities | C | |
+| | Hospital | P | |
+| | Parks & Recreation | P | |
+| | Postal Facility | P | |
+| | Railroad Facility | C | |
+| | Recycling Collection, Drop-Off | P | |
+| | Religious Assembly, standard | P | |
+| | Religious Assembly, mega | P | |
+| | Safety Services | P | |
+| | Utility Service, Major | C | |
+| | Utility Service, Minor | P | |
+| **Commercial** | | | |
+| | Adult Use | C | |
+| | Agricultural Sales/Service | P | |
+| | Amusement Park | P | |
+| | Business or Trade School | P | |
+| | Communication Towers, Commercial | P | Subject to 60.2G |
+| | Construction Sales/Services | P | |
+| | Convenience Store | P | |
+| | Financial Services, with drive-through | P | |
+| | Financial Services, without drive-through | P | |
+| | Funeral Services | C | |
+| | Greenhouse, Retail | P | |
+| | Greenhouse, Wholesale | P | |
+| | Hotel-Motel | P | |
+| | Kennel | P | Subject to 60.2W |
+| | Landscaping and Lawn Care Service | P | |
+| | Office | P | |
+| | Organic Recycling | P | |
+| | Parking, Commercial | P | |
+| | Recreational Equipment Storage (Commercial) | P | Subject to 60.2R |
+| | Recreation & Entertainment, Outdoor | P | |
+| | Repair Service, Consumer | P | |
+| | Restaurant, Fast Food | P | |
+| | Restaurant, General | P | |
+| | Retail Sales & Service, Convenience | P | |
+| | Retail Sales & Service, General | P | |
+| | Scrap and Salvage Service | C | |
+| | Self-Service Storage | P | |
+| | Service Station | P | |
+| | Shooting Range | P | Subject to 60.2T |
+| | Utility Trailer and Stock Sales | P | Subject to 60.2V |
+| | Vehicle Repair, General | P | |
+| | Vehicle Sales/Rental | P | |
+| | Vehicle Service, Limited | P | |
+| | Vehicle Storage | P | |
+| | Veterinary Services | P | Subject to 60.2W |
+| **Industrial** | | | |
+| | Aviation & Surface Transportation | C | Subject to 60.2I |
+| | Industrial Service | C | Subject to 60.2O |
+| | Manufacturing and Production | P | |
+| | Warehouse and Freight Movement | P | |
+| | Wholesale Sales | P | |
+| **Agricultural and Other Uses** | | | |
+| | Accessory Apartment | C | Subject to 60.3A |
+| | Air Strip, Private | C | Subject to FFA regs. |
+| | Animal Production | P | Subject to 60.2E |
+| | Animal Refuge, Public or Private | C | |
+| | Crop Production | P | |
+| | Horticulture | P | |
+| | Recycling Center | C | |
+| | Zoological, Public or Private | C | Subject to 60.2D-7 |
+
 ### C. Density and Dimensional Standards
-See the table in Section 40.16 for complete standards.
+The following standards shall apply in the I-1 district:
+
+| Standard | Requirement |
+|----------|-------------|
+| Minimum lot size | 60,000 square feet |
+| Minimum lot width | 200 feet |
+| Minimum front/street side setback | 35 feet |
+| Minimum interior side setback | 30 feet |
+| Minimum rear setback | 40 feet |
+| Maximum building height (principal/accessory) | 45/45 feet |
+| Maximum building cover | 50 percent |
 
 ### D. Other Regulations
-1. All uses shall be so operated as to comply with all applicable state and federal standards governing radiation, smoke, dust, particulate matter, toxic or noxious waste materials.
+The following additional regulations shall apply in the I-1 district.
+
+1. All manufacturing and repair activities shall be conducted within an enclosed building.
+
+2. Outdoor storage areas that are visible from public rights-of-way or residential zoning districts shall be screened from view of such rights-of-way or zoning districts by buildings, solid, opaque fences or walls or by dense vegetative plantings that effectively block views of the material being stored. The height of the building, fence, wall or vegetation shall be at least as tall as the material being screened.
+
+3. Direct access to and frontage on at least one arterial or minor arterial street shall be required.
+
+4. All uses shall be operated so as to comply with the following performance standards:
+
+   a. All uses shall be so operated as to comply with all applicable state and federal standards governing radiation, smoke, dust, particulate matter, toxic or noxious waste materials.
+
+   b. No use shall be operated so as to produce ground vibration, noticeable without instruments, at the lot line of the premises on which the use is located.
+
+   c. No use, activity, or process shall be conducted which produces electromagnetic interference with normal radio or television reception in any residential or commercial district.
+
+   d. Each use shall be operated so as to minimize the danger from fire and explosion and to comply with the regulations of Zoning Regulations.
+
+   e. Any activity producing humidity in the form of steam or moist air, or producing heat or glare, shall be carried on in such a manner that steam, humidity, heat or glare is not perceptible at any lot line.
 
 ## 40.14 I-2 General Industrial District
 
@@ -802,35 +999,153 @@ The following table shows which uses are allowed in the I-2 district. For a summ
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
+| Use Category | Use Type | I-2 | Notes |
+|-------------|----------|-----|-------|
+| **Civic/Institutional** | | | |
+| | Cemetery | C | RSMo.214 |
+| | Detention Facilities | C | |
+| | Hospital | P | |
+| | Postal Facility | P | |
+| | Railroad Facility | P | |
+| | Religious Assembly, standard | P | |
+| | Religious Assembly, mega | P | |
+| | Safety Services | P | |
+| | Utility Service, Major | P | |
+| | Utility Service, Minor | P | |
+| **Commercial** | | | |
+| | Agricultural Sales/Service | P | |
+| | Amusement Park | P | |
+| | Motorized Vehicle Tracks | P | Subject to 60.2P |
+| | Organic Recycling | P | |
+| | Recreational Equipment Storage (Commercial) | P | Subject to 60.2R |
+| | Recreation & Entertainment, Outdoor | P | |
+| | Scrap and Salvage Service | C | |
+| | Self-Service Storage | P | |
+| | Utility Trailer and Stock Sales | P | Subject to 60.2V |
+| | Vehicle Repair, General | P | |
+| | Vehicle Sales/Rental | P | |
+| | Vehicle Service, Limited | P | |
+| **Industrial** | | | |
+| | Aviation & Surface Transportation | P | Subject to 60.2I |
+| | Industrial Service | P | Subject to 60.2O |
+| | Manufacturing and Production | P | |
+| | Warehouse and Freight Movement | P | |
+| | Wholesale Sales | P | |
+| **Agricultural and Other Uses** | | | |
+| | Air Strip, Private | C | Subject to FFA Regs. |
+| | Animal Production | P | Subject to 60.2E |
+| | Animal Refuge, Public or Private | C | Subject to 60.2E |
+| | Crop Production | P | |
+| | Horticulture | P | |
+| | Recycling Center | P | |
+| | Resource Extraction | C | Subject to 60.2S |
+| | Waste-Related Use | C | Subject to 60.2X |
+| | Zoological, Public or Private | C | Subject to 60.2D-7 |
+
 ### C. Density and Dimensional Standards
-See the table in Section 40.16 for complete standards.
+The following standards shall apply in the I-2 district:
+
+| Standard | Requirement |
+|----------|-------------|
+| Minimum lot size | 80,000 square feet |
+| Minimum lot width | 300 feet |
+| Minimum front/street side setback | 50 feet |
+| Minimum interior side setback | 40 feet |
+| Minimum rear setback | 50 feet |
+| Maximum building height (principal/accessory) | 45/45 feet |
+| Maximum building cover | 50 percent |
 
 ### D. Other Regulations
+The following additional regulations shall apply in the I-2 district.
 
-1. All uses shall be operated so as to comply with the following performance standards:
-   - a. All uses shall be so operated as to comply with all applicable state and federal standards governing radiation, smoke, dust, particulate matter, toxic or noxious waste materials.
-   - b. No use shall be operated so as to produce ground vibration, noticeable without instruments, at the lot line of the premises on which the use is located.
-   - c. Any activity producing humidity in the form of steam or moist air, or producing heat or glare, shall be carried on in such a manner that steam, humidity, heat or glare is not perceptible at any lot line.
+1. Outdoor storage areas that are visible from public rights-of-way or residential zoning districts shall be screened from view of such rights-of-way or zoning districts by buildings, solid, opaque fences or walls or by dense vegetative plantings that effectively block views of the material being stored. The height of the building, fence, wall or vegetation shall be at least as tall as the material being screened.
+
+2. All uses shall be operated so as to comply with the following performance standards:
+
+   a. All uses shall be so operated as to comply with all applicable state and federal standards governing radiation, smoke, dust, particulate matter, toxic or noxious waste materials.
+
+   b. No use shall be operated so as to produce ground vibration, noticeable without instruments, at the lot line of the premises on which the use is located.
+
+   c. No use, activity, or process shall be conducted which produces electromagnetic interference with normal radio or television reception in any residential or commercial district.
+
+   d. Each use shall be operated so as to minimize the danger from fire and explosion and to comply with the regulations contained in the County Code.
+
+   e. Any activity producing humidity in the form of steam or moist air, or producing heat or glare, shall be carried on in such a manner that steam, humidity, heat or glare is not perceptible at any lot line.
 
 ## 40.15 OP Open Space and Parks
 
-### A. Description
 The Open Space and Parks (OP) district is intended to accommodate areas reserved for public uses, which may include passive or active recreation areas, shelter houses, historical buildings, marinas, and other uses that are funded primarily by a government agency and available for public use. All buildings and structures will be supportive of the recreational aspects of the land use.
 
 The OP District is appropriate for application in all development of the Comprehensive Plan.
 
-### B. Use Regulations
+### A. Use Regulations
 The following table shows which uses are allowed in the OP district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
-### C. Density and Dimensional Standards
+| Use Category | Use Type | OP |
+|-------------|----------|----|
+| **Civic/Institutional** | | |
+| | Accessory Structure | P |
+| | Amphitheater | P |
+| | Arboretum | P |
+| | Archery Range, Public | P |
+| | Archery Ranges | P |
+| | Arena | P |
+| | Athletic Field | P |
+| | Batting Cages, Public | C |
+| | Bike Paths | P |
+| | Botanic Gardens | P |
+| | Business Operations | P |
+| | Cabins | P |
+| | Campgrounds (RV) | P |
+| | Campgrounds (Tent) | P |
+| | Club House | P |
+| | Community Center | P |
+| | Conference Center | P |
+| | Driving Range, Public | P |
+| | Educational Facility | P |
+| | Fishing Pier | P |
+| | Fleet Maintenance Facility | P |
+| | Gift Shop | P |
+| | Golf Course | P |
+| | Historic Site | P |
+| | Marina | P |
+| | Meeting House | P |
+| | Miniature Golf, Public | C |
+| | Model Airplane Flying Facilities | C |
+| | Motorized Vehicle Tracks, Public | C |
+| | Museum | P |
+| | Natural Habitat Area | P |
+| | Nature Preserve | P |
+| | Open Space (Permanent) | P |
+| | Parks, Public | P |
+| | Picnic Area | P |
+| | Playground | P |
+| | Pro Shop | P |
+| | Race Track | C |
+| | Recreational Facilities | P |
+| | Refreshment Center | P |
+| | Shooting Range | C |
+| | Skateboard Park | P |
+| | Skating Rink, Public | C |
+| | Stables, Riding and Training, Public | P |
+| | Stadium | P |
+| | Swimming Beach | P |
+| | Swimming Pool | P |
+| | Tennis Courts | P |
+| | Trails | P |
+| | Water Park, Public | C |
+| | Zoological Park | C |
+
+### B. Density and Dimensional Standards
 There are no set standards for density and dimensions that shall apply in the OP District.
 
-### D. Other Regulations
+### C. Other Regulations
+The following additional regulations shall apply in the OP district:
 
 1. All uses within the OP district shall be owned by a public entity and constructed with public and/or foundation funds.
-2. Specific uses may be operated by contract, rather than by government staff.
-3. Conditional Use Permits are required on uses that may have more significant impacts on neighboring uses, environmental concerns, traffic generation, impervious surfaces, and require more in-depth review.
 
-For complete density and dimensional standards applicable to all base zoning districts, see [Article 70.1 - Density and Dimensional Standards Table](Article_70_Density_Dimensional_Standards.md#701-density-and-dimensional-standards-table).
+2. Specific uses may be operated by contract, rather than by government staff.
+
+3. Conditional Use Permits are required on uses that may have more significant impacts on neighboring uses, environmental concerns, traffic generation, impervious surfaces, and require more in-depth review.
