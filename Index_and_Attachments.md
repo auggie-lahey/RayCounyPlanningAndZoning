@@ -3,28 +3,28 @@
 ## INDEX
 
 **A**
-- Abandoned Vehicle, 193
-- Accessible Parking Spaces, 171
-- Accessory Apartments, 116
+- [Abandoned Vehicle](./Article_150_Definitions.md#abandoned-vehicle), 193
+- Accessible [Parking Spaces](./Article_150_Definitions.md#parking-space), 171
+- [Accessory Apartments](./Article_150_Definitions.md#accessory-apartment), 116
 - [Accessory](./Article_150_Definitions.md#accessory-building-or-use) [Dwelling Units](./Article_150_Definitions.md#dwelling-unit), 116
 - Accessory [Structures](./Article_150_Definitions.md#structure) - human occupancy prohibited (see prohibited [accessory](./Article_150_Definitions.md#accessory-building-or-use) [uses](./Article_150_Definitions.md#use)). See [Accessory](./Article_150_Definitions.md#accessory-building-or-use) [Uses](./Article_150_Definitions.md#use)
 - [Accessory](./Article_150_Definitions.md#accessory-building-or-use) [Uses](./Article_150_Definitions.md#use), 115
 - AG [Agricultural](./Article_150_Definitions.md#agriculture) District - [zoning district](./Article_150_Definitions.md#zoning-district) regulations, 55
 - Animal Care - prohibited as [home occupation](./Article_150_Definitions.md#home-occupation), 121
-- Animal Production, 97
-- Antennas, 97
+- [Animal Production](./Article_150_Definitions.md#animal-production), 97
+- [Antennas](./Article_150_Definitions.md#antenna), 97
 - [Appeals](./Article_150_Definitions.md#appeal) of Administrative Decisions - procedures for, 52
-- Applicability - of LDC provisions, 1
-- Applications - authority to file, 15
-- Attached Houses - use standards for, 100
-- Authority - to adopt LDC, 1
+- [Applicability](./Article_150_Definitions.md#applicability) - of LDC provisions, 1
+- [Applications](./Article_150_Definitions.md#application) - authority to file, 15
+- [Attached Houses](./Article_150_Definitions.md#attached-house) - use standards for, 100
+- [Authority](./Article_150_Definitions.md#authority) - to adopt LDC, 1
 - Aviation and Surface Transportation Facilities (Landing Fields) - use standards for, 101
 
 **B**
-- Bed and Breakfast Inn - use standards for, 101
+- [Bed and Breakfast](./Article_150_Definitions.md#bed-and-breakfast) Inn - use standards for, 101
 - [Block](./Article_150_Definitions.md#block) Design, 138
 - [Board of Zoning Adjustment](./Article_150_Definitions.md#board-of-zoning-adjustment) - summary of powers and duties under LDC, 13
-- Bridges, 142
+- [Bridges](./Article_150_Definitions.md#bridge), 142
 - [Building](./Article_150_Definitions.md#building) Coverage - measurement of, 131
 - [building](./Article_150_Definitions.md#building) permit, 24
 - Burden of Proof Persuasion, 20
@@ -33,18 +33,18 @@
 - B-2 Commercial Services District, 74
 
 **C**
-- Cabins, 102
-- Campgrounds - use standards for, 102
-- Carnival or Circus, 126
-- cemetery - exemptions, 25
-- Cemetery, 90
-- Commercial Wireless Communications, 97
-- Complete Application - required, 16
-- Comprehensive Plan - implementation of and consistency with, 3
+- [Cabins](./Article_150_Definitions.md#cabin), 102
+- [Campgrounds](./Article_150_Definitions.md#campground) - use standards for, 102
+- [Carnival](./Article_150_Definitions.md#carnival) or [Circus](./Article_150_Definitions.md#circus), 126
+- [cemetery](./Article_150_Definitions.md#cemetery) - exemptions, 25
+- [Cemetery](./Article_150_Definitions.md#cemetery), 90
+- [Commercial](./Article_150_Definitions.md#commercial) Wireless Communications, 97
+- Complete [Application](./Article_150_Definitions.md#application) - required, 16
+- [Comprehensive Plan](./Article_150_Definitions.md#comprehensive-plan) - implementation of and consistency with, 3
 - [Conditional Use](./Article_150_Definitions.md#conditional-use) Permits - procedures for, 42
 - Conflicting Provisions - how to interpret, 6
-- Construction of (LDC) Language, 3
-- Contractor's Office, 125
+- [Construction](./Article_150_Definitions.md#construction) of (LDC) Language, 3
+- [Contractor's](./Article_150_Definitions.md#contractor) Office, 125
 - [County Commission](./Article_150_Definitions.md#county-commission) - Summary of powers and duties under LDC, 11
 - Cul-de-sacs - table of standards, 139
 
