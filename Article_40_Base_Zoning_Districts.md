@@ -454,47 +454,99 @@ The following standards apply to all residential and nonresidential development 
 ### A. Description
 The Residential Mobile Home Park district (R-MHP) is primarily intended to accommodate the grouping of mobile homes within mobile home parks on spaces rented or leased to the occupant of the manufactured housing unit. The district is intended to provide a safe and healthy living environment; to assure the compatibility with nearby land uses and to promote affordable housing opportunities, consistent with the provisions of the Comprehensive Plan.
 
+The R-MHP district is intended for application only in urban area. Full urban services will generally be required for all development in this district (i.e. central sewage and water systems).
+
 ### B. Use Regulations
-The following table shows which uses are allowed in the R-MHP district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table).
-- P = Permitted by-right
-- C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
+The following table shows which uses are allowed in the R-MHP district. For a summary of uses allowed in all zoning districts, see [Article 60.1](Article_60_Use_Regulations.md#601-use-table). (P = Permitted by-right; C= Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits)))
+
+| **Residential** | | |
+|---|---|---|
+| Mobile Home | P | |
+| Mobile Home Park | P | |
+| House, Detached | P | |
+| **Civic/Institutional** | | |
+| Community Recreation, Private | P | |
+| Convenience Store | P | |
+| Parks & Recreation | P | |
+| Religious Assembly, standard | P | |
+| Religious Assembly, mega | C | |
+| Safety Services | P | |
+| Utility Service, Major | C | |
+| Utility Service, Minor | P | |
+| **Commercial** | | |
+| Retail Sales & Service, Convenience | C | |
+| **Agricultural and Other Uses** | | |
+| Accessory Structure | P | Subject to 60.3B |
+| Crop Production | P | |
 
 ### C. General Standards
 
-1. **Minimum Site Area** - Mobile home parks shall contain a minimum gross area of 15 acres, including all private streets, parking spaces, mobile home spaces and common areas within the mobile home park. The minimum width of a mobile home park shall be 300 feet.
+1. **Platting** - Each mobile home park shall be platted as one lot.
 
-2. **Site Conditions** - A mobile home park shall be located on a well-drained site and be properly graded to ensure rapid drainage.
+2. **Minimum Site Area** - Mobile home parks shall contain a minimum gross area of 15 acres, including all private streets, parking spaces, mobile home spaces and common areas within the mobile home park. The minimum width of a mobile home park shall be 300 feet.
 
-3. **Access** - Mobile home parks shall be provided with at least 2 permanent entrances, both of which shall be at least 40 feet in width.
+3. **Site Conditions** - A mobile home park shall be located on a well-drained site and be properly graded to ensure rapid drainage.
 
-4. **Density** - There shall not be more than 7 mobile homes per gross acre within a mobile home park.
+4. **Access** - Mobile home parks shall be provided with at least 2 permanent entrances, both of which shall be at least 40 feet in width.
+
+5. **Density** - There shall not be more than 7 mobile homes per gross acre within a mobile home park.
 
 ### D. Mobile Home Space Standards
 
 1. **Area** - Individual mobile home spaces within a mobile home park shall have a minimum area of 4,000 square feet.
 
-2. **Frontage** - Every mobile home space shall have at least 35 feet of frontage on a paved street (with curb and gutter) constructed to county standards. Turn-around streets (cul-de-sacs) shall have a minimum diameter of 80 feet.
+2. **Frontage** - Every mobile home space shall have at least 35 feet of frontage on a paved street (with curb and gutter) constructed to county standards. Turn-around streets (culdesacs) shall have a minimum diameter of 80 feet.
 
 3. **Perimeter Setbacks** - Mobile homes shall set back at least 25 feet from all mobile home park property lines.
 
-4. **Parking** - Each mobile home space shall be provided with two paved off-street parking spaces designed in accordance with the off-street parking requirements of these regulations.
+4. **Mobile Home Setbacks and Separation Distances** - Minimum building setbacks shall be provided on each mobile home space measured from the space boundaries as shown on the mobile home park site plan, as follows:
+   - Minimum front yard: 15 feet
+   - Minimum rear yard: 10 feet
+   - Minimum side yard: 10 feet on one side and 15 feet on the other side.
 
-5. **Storage Buildings** - Each mobile home space without an enclosed garage shall have a separate, enclosed accessory structure of at least 100 square feet in area and a height of at least 5 feet.
+5. **Access to Mobile Home Spaces** - All mobile homes shall front onto a street within the mobile home park. Mobile home spaces may be arranged with the long or short side of the mobile home fronting the street.
 
-6. **Landscaping** - Each mobile home space shall be provided with landscaping of at least 2 shade trees with a caliper of at least 1.5 inches.
+6. **Placement and Anchoring**
+   a. Every mobile home shall be placed on a solid concrete slab or on 2 runners, with a minimum width of 2.5 feet. These runners shall be under at least 80 percent of the length of the mobile home and have a design strength adequate to support the structure. Each transportable Article of a mobile home shall be placed on such slab or runner.
+   
+   b. All mobile homes shall be blocked at a maximum of 5-foot centers along the weight bearing beams of each mobile home and this blocking shall provide 8 inches by 16 inches bearing upon the concrete stand with 16-inch dimension at a 90-degree angle to the length of the beams.
+   
+   c. Tiedowns and ground anchors shall secure all mobile homes to the ground in accordance with state law and shall include anchors at each corner of the mobile home and at the center of the length of the mobile home frame.
+
+7. **Parking** - Each mobile home space shall be provided with two paved offstreet parking spaces designed in accordance with the offstreet parking requirements of these regulations.
+
+8. **Storage Buildings** - Each mobile home space without an enclosed garage shall have a separate, enclosed accessory structure of at least 100 square feet in area and a height of at least 5 feet. This storage building shall be securely fastened to the ground.
+
+9. **Landscaping** - Each mobile home space shall be provided with landscaping of at least 2 shade trees with a caliper of at least 1.5 inches.
+
+10. **Refuse** - Each mobile home shall be provided with a weathertight metal container with a tight fitting cover for refuse. Centralized refuse containers may be provided instead of individual ones if they are so located as to be easily accessible to all mobile home residents and sized to accommodate the trash from those residents. The park owner shall insure that containers are emptied regularly, at least weekly, and maintained in a usable sanitary condition.
+
+11. **Electricity** - Each mobile home space shall be provided with an electrical source supplying at least 240 volts, in accordance with county construction codes.
+
+12. **Skirting** - Each mobile home shall be skirted within 30 days after placement in a park by enclosing the open area under the unit with a metal or synthetic material that is compatible with the exterior finish of the mobile home.
+
+13. **Patios** - Each mobile home space shall be provided with a paved patio area of not less than 200 square feet. Parking spaces shall not be counted as patios.
 
 ### E. Mobile Home Park Improvements
 
-1. **Sidewalks** - A sidewalk of a width of at least 3 feet shall be constructed along one side of each street within the mobile home park, except on turn around (cul-de-sac) streets, in accordance with county construction standards.
+1. **Sidewalks** - A sidewalk of a width of at least 3 feet shall be constructed along one side of each street within the mobile home park, except on turn around (culdesac) streets, in accordance with county construction standards.
 
-2. **Storm Shelters** - An underground storm shelter shall be provided that is sufficient to accommodate 2 persons per mobile home and shall be located so that no mobile home is more than 660 feet away from an underground storm shelter.
+2. **Lighting** - Lighting shall be provided for sidewalks and streets in accordance with county standards.
 
-3. **Recreation Space** - A minimum of 500 square feet of recreational or open space shall be provided per mobile home space. Each recreational or open space shall contain a minimum of 5,000 square feet in area.
+3. **Storm Shelters** - An underground storm shelter shall be provided that is sufficient to accommodate 2 persons per mobile home and shall be located so that no mobile home is more than 660 feet away from an underground storm shelter.
 
-4. **Sewer and Water** - Every space within a mobile home park shall be provided with public sanitary sewer and public water service with all utility lines constructed in accordance with county approved plumbing, sanitary, and construction codes.
+4. **Recreation Space** - A minimum of 500 square feet of recreational or open space shall be provided per mobile home space. Each recreational or open space shall contain a minimum of 5,000 square feet in area, and shall be fully developed by the time the park is 50 percent occupied.
+
+5. **Phasing** - If the development is shown to be divided into phases on the approved plan, the recreational or open space areas may also be phased, as long as the amount of park land is equivalent to 500 square feet for each mobile home space in each phase, the park land is fully improved when the appropriate phase is 50 percent occupied, and each park area is accessible via a paved road or sidewalk to all residents within the developed areas of the mobile home park.
+
+6. **Maintenance** - All developed park or open space areas shall be maintained in a neat and usable manner with at least the improvements shown on the approved site plan.
+
+7. **Ground Treatment** - Exposed ground surfaces in all parts of every mobile home park shall be paved, covered with stone screenings, or other solid materials, or protected with a vegetative ground cover capable of preventing soil erosion and controlling dust.
+
+8. **Sewer and Water** - Every space within a mobile home park shall be provided with public sanitary sewer and public water service with all utility lines constructed in accordance with county approved plumbing, sanitary, and construction codes. Water and sewer lines under all streets shall be the same diameter and materials as required for public streets and shall "loop" or connect to each other as is practical. All utility lines, including electrical service, shall be placed underground.
 
 ### F. Mobile Home Park Approval Procedure
-An application for R-MHP zoning shall be processed as a Zoning District Map amendment in accordance with the procedures of [Article 30.3](Article_30_Development_Review_Procedures.md#303-zoning-district-map-amendments).
+An application for R-MHP zoning shall be processed as a Zoning District Map amendment in accordance with the procedures of [Article 30.3](Article_30_Development_Review_Procedures.md#303-zoning-district-map-amendments). At the time of submission of the rezoning application, the applicant shall submit a site plan for the mobile home park. The site plan shall accompany the rezoning application and be reviewed concurrently with the rezoning application by the Planning and Zoning Commission and County Commission. A list of the information required to be shown on the site plan may be obtained from the Planning and Zoning Department.
 
 ## 40.10 S&O Service & Office District
 
