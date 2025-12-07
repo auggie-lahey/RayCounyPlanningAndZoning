@@ -332,8 +332,53 @@ The following table shows which uses are allowed in the R-2 district. For a summ
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
+| Use Type | R-2 | Standards |
+|----------|-----|----------|
+| **Residential** | | |
+| Duplex (2 units per structure) | P | |
+| Group Home, Class I (General) | C | |
+| Group Home, Class I (Limited) | C | |
+| House, Attached | P | Subject to 60.2H |
+| House, Detached | P | |
+| Transitional Housing | C | |
+| **Civic/Institutional** | | |
+| Cemetery | C | RSMo.214 |
+| Community Recreation, Private | P | |
+| Day Care, Family (1-5 children/adults) | P | |
+| Parks & Recreation | P | |
+| Religious Assembly, standard | P | |
+| Religious Assembly, mega | C | |
+| Safety Services | P | |
+| School, Primary | P | |
+| School, Secondary | P | |
+| Utility Service, Major | C | |
+| Utility Service, Minor | P | |
+| **Agricultural and Other Uses** | | |
+| Accessory Structures | P | Subject to 60.3B |
+| Communications Antenna, Amateur | C | Subject to 60.2F |
+| Crop Production | P | |
+
 ### C. Density and Dimensional Standards
-The following standards apply to all residential and nonresidential development in the R-2 district. See the table in Section 40.16 for complete standards.
+The following standards apply to all residential and nonresidential development in the R-2 district:
+
+| Standard | Requirement |
+|----------|-------------|
+| **Minimum Lot Size** | |
+| House | 8,000 Square Feet |
+| Duplex | 12,000 Square Feet |
+| Other | 8,000 Square Feet |
+| **Minimum Lot Width** | 80 Feet |
+| **Minimum Front/Street Side Setback** | 35 Feet |
+| **Minimum Interior Side Setback** | 10 Feet |
+| **Minimum Rear Setback** | 35 Feet |
+| **Maximum Building Height** | |
+| Principal Structures | 35 Feet |
+| Accessory Structures | 30 Feet |
+| **Minimum Residential Living Area (per unit)** | |
+| 1-Story | 1,000 Square Feet |
+| 2-Story | 1,400 Square Feet |
+
+Homeowner Association Protective Covenants are required when there are common areas to be maintained under Open Space.
 
 ## 40.8 R-3 Residential Multi-Unit District
 
