@@ -4,7 +4,7 @@
 
 ### A. General
 
-Dams and water impoundment structures shall be planned, designed and constructed under the supervision of a structural or professional engineer registered in the State of Missouri and shall comply with all applicable county and state standards. A preliminary engineering report, including soil investigations and design procedures, in accordance with state and county standards, may be submitted to the county prior to any development approval. The applicant's engineer shall certify that the dam is constructed in accordance with the approved plans and specifications. (See Article 80.13)
+Dams and water impoundment structures shall be planned, designed and constructed under the supervision of a structural or professional engineer registered in the State of Missouri and shall comply with all applicable county and state standards. A preliminary engineering report, including soil investigations and design procedures, in accordance with state and county standards, may be submitted to the county prior to any development approval. The applicant's engineer shall certify that the dam is constructed in accordance with the approved plans and specifications. (See [Article 80.13](./Article_80_Subdivision_Design_Improvements.md#8013-dams-and-water-impoundment-structures))
 
 ### B. Dams
 
@@ -45,7 +45,7 @@ Stormwater is water from rain or melting snow that does not soak into the ground
 
 Soil type can affect surface water contamination. Although runoff occurs from all soil types, clay soils are more likely to cause surface water runoff because they are less permeable. Eroding soil is considered a water pollutant.
 
-For additional information, contact the University of Missouri Extension Service, the Ray County Soil and Water Conservation District, the Missouri Department of Natural Resources, Missouri Department of Conservation, and the Ray County Health Department.
+For additional information, contact the University of Missouri Extension Service, the Ray County Soil and Water Conservation District, the Missouri Department of Natural Resources, [Missouri Department of Conservation](https://mdc.mo.gov/), and the Ray County Health Department.
 
 ### A. Practices that will reduce stormwater runoff and improve water quality in streams
 
@@ -123,7 +123,7 @@ Any violation of this Article of the ordinance will receive written notice of th
 
 ## 110.3 Renewable Energy
 
-Renewable energy sources (e.g. wind generators, solar collectors, etc.) are encouraged in Ray County. (See Article 60.3H)
+Renewable energy sources (e.g. wind generators, solar collectors, etc.) are encouraged in Ray County. (See [Article 60.3H](./Article_60_Use_Regulations.md#603-accessory-and-temporary-uses))
 
 ## 110.4 Junk, Trash and Derelict Vehicles
 
@@ -141,7 +141,7 @@ Accumulation of junk, debris, building materials, used furniture, household tras
 - Degrade water quality of active streams
 
 **2. Burial Prohibition**
-The burial of trash or debris is considered to be operating a Landfill and is subject to all regulations regarding Waste-Related Use (Article 60.2X).
+The burial of trash or debris is considered to be operating a Landfill and is subject to all regulations regarding Waste-Related Use ([Article 60.2X](./Article_60_Use_Regulations.md#602-use-standards)).
 
 **3. Complaint Process**
 Any complaint regarding the accumulation of junk, debris, trash, building materials, used furniture, or other waste items located on property within unincorporated Ray County shall be processed by the Planning and Zoning Administrator or designee by:
@@ -254,7 +254,7 @@ The degree of flood protection required by this Article is considered reasonable
 
 **Flood or Flooding** - A general and temporary condition of partial or complete inundation of normally dry land areas from overflow of inland or tidal waters or from the unusual and rapid accumulation or runoff of surface waters from any source.
 
-**Flood Insurance Rate Map (FIRM)** - The official map on which the Federal Emergency Management Agency has delineated both the areas of special flood hazard and the risk premium zones applicable to the community.
+**Flood Insurance Rate Map (FIRM)** - The official map on which the [Federal Emergency Management Agency](https://www.fema.gov/) has delineated both the areas of special flood hazard and the risk premium zones applicable to the community.
 
 **Floodplain or Flood-prone Area** - Any land area susceptible to being inundated by water from any source.
 
@@ -355,7 +355,7 @@ A recreational vehicle is ready for highway use if it is on its wheels or jackin
 
 ### A. Appeal Board
 
-The Ray County Board of Zoning Appeals as established by Article 20 shall hear and decide appeals and requests for variances from the requirements of this Article.
+The Ray County Board of Zoning Appeals as established by [Article 20](./Article_20_Review_Decision_Making_Bodies.md) shall hear and decide appeals and requests for variances from the requirements of this Article.
 
 ### B. Conditions for Variances
 
@@ -401,7 +401,7 @@ Any violation of the provisions of this Article by failure to comply with any of
 
 ## 110.18 Floodplain Amendments
 
-The regulations, restrictions, and boundaries set forth in this Article and any amendments thereto may from time to time be amended in accordance with procedures set forth in Article 30.
+The regulations, restrictions, and boundaries set forth in this Article and any amendments thereto may from time to time be amended in accordance with procedures set forth in [Article 30](./Article_30_Development_Review_Procedures.md).
 
 ---
 
