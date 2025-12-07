@@ -50,33 +50,6 @@ The design of subdivisions shall be consistent with:
 
 2. No subdivider shall be relieved of the duty to construct public improvements for the subdivision until all public improvements are constructed, approved and accepted by the county. This may be accomplished by an irrevocable letter of credit, cash escrow, performance bond, or other financial improvement guarantee acceptable to the County.
 
-## 80.3 Required Infrastructure and Improvements
-
-Infrastructure and subdivision improvements shall be required in accordance with the following table:
-
-| Zoning District | Streets/Roads | Water | Fire Protection | Wastewater Systems | Sidewalks |
-|---|---|---|---|---|---|
-| | See 80.7-80.8 | See 80.9 | See 80.9 | See 80.10 | See 80.6 |
-| R-A | Per County road standard, chip & seal may be required | Municipal, PWSD or well [1] | | Central (gravity) system, package plant or septic [1] | Not required |
-| R-1 | | | | | |
-| R-1A | | | | | |
-| R-1B | Chip & seal required | | | Central (gravity) system or package plant [1] | |
-| R-2 | Asphalt may be required [2] and Perimeter road improvements [3] | Municipal or PWSD [1] | | | Required [5] |
-| R-3 | | | | | |
-| R-MHP | | | | | |
-| C-1 | Asphalt, curb and gutter [2] and perimeter road improvements [3] | Municipal or PWSD [1] | Hydrants required unless exempted pursuant to 80.9-B | Central (gravity) system, package plant or septic [1] | Not required in Rural or Low Density Development Zone. Required in Urban Density Dev't Zone [5] |
-| C-2 | | | | | Required [5] |
-| C-3 | | | | | |
-| I-1 | | | | | Not required in Rural or Low Density Development Zone. Required in Urban Density Dev't Zone [5] |
-| I-2 | | | | | |
-| PUD | Infrastructure/improvements as required by decision-making body as part of PUD approval (30.8) | | Hydrants required unless exempted pursuant to 80.9-B | Infrastructure/improvements as required by decision-making body as part of PUD approval (30.8) | |
-
-**Table Notes:**
-- [1] As approved by required by decision-making body.
-- [2] See Street Design Requirements (Article 80.7-L). Ditch Sections may be approved in all zoning districts.
-- [3] See Article 90
-- [5] Sidewalks not required if all lots within subdivision are 5 acres or more in area
-
 ## 80.4 Lots
 
 ### A. Width to Depth Ratio
