@@ -118,8 +118,6 @@ The following standards shall apply to all development in the R-A district:
 | - Non-farm accessory structures | 30 feet |
 | **Accessory Structures** | Subject to 60.3B |
 
-For complete dimensional standards for all districts, see Section 40.16 below.
-
 ## 40.4 R-1 Residential Rural District
 
 ### A. Description
@@ -152,7 +150,7 @@ The following table shows which uses are allowed in the R-1 district. For a summ
 | **Commercial** | | |
 | Bed and Breakfast | C | Subject to 60.2K |
 | Funeral Services | C | |
-| Stable, Riding and Training, Public | C | |
+| Stable, Training and Riding, Public | C | |
 | **Agricultural and Other Uses** | | |
 | Accessory Apartments | P | Subject to 60.3A |
 | Accessory Dwelling Units | P | Subject to 60.3A |
@@ -194,8 +192,6 @@ The following table shows which uses are allowed in the R-1 district. For a summ
 | **Minimum residential living area** | |
 | - 1-story | 1,000 square feet |
 | - 2 or more stories | 1,400 square feet |
-
-For complete dimensional standards, see the table in Section 40.16 below.
 ## 40.5 R-1A Residential Low Density District
 
 ### A. Description
