@@ -14,15 +14,15 @@ The County Commission shall be responsible for reviewing subdivision plat applic
 
 ### D. Planned Developments
 
-1. **PUD Concept Plans** - The County Commission shall be responsible for reviewing PUD Concept Plan applications and for taking final action to approve or deny such applications. (See [Article 30.7](Article_30_Development_Review_Procedures.md#307-planned-unit-developments))
+   1.   PUD Concept Plans The County Commission shall be responsible for reviewing PUD Concept Plan applications and for taking final action to approve or deny such applications. (See [Article 30.7](Article_30_Development_Review_Procedures.md#307-planned-unit-developments))
 
-2. **Final PUD Plans** - The County Commission shall be responsible for reviewing Final PUD Plan/Plat applications and for taking final action to approve or deny such applications. (See [Article 30.7](Article_30_Development_Review_Procedures.md#307-planned-unit-developments))
+        2.         Final PUD Plans The County Commission shall be responsible for reviewing Final PUD Plan/Plat applications and for taking final action to approve or deny such applications. (See [Article 30.7](Article_30_Development_Review_Procedures.md#307-planned-unit-developments))
 
 ### E. Conditional Use Permits
-The County Commission shall be responsible for reviewing Conditional Use Permit applications and for taking final action to approve or deny such applications. (See [Article 30.8](Article_30_Development_Review_Procedures.md#308-conditional-use-permits))
+The County Commission shall be responsible for reviewing Conditional Use Permit applications and for taking final action to approve or deny such applications. (See [Article 30.9](Article_30_Development_Review_Procedures.md#308-conditional-use-permits))
 
 ### F. Vacations
-The County Commission shall be responsible for reviewing Vacations (e.g. utility easements, rights-of-way) applications and for taking final action to approve or deny such applications. (See [Article 30.11](Article_30_Development_Review_Procedures.md#3011-vacations))
+The County Commission shall be responsible for reviewing Vacations (e.g. utility easements, rights-of-way) applications and for taking final action to approve or deny such applications. (See [Article 30.12))
 
 ### G. Comprehensive Plan
 The County Commission shall be responsible for reviewing and taking final action on amendments to the County Comprehensive Plan.
@@ -41,15 +41,15 @@ The Planning and Zoning Commission shall be responsible for reviewing Subdivisio
 
 ### D. Planned Developments
 
-1. **PUD Concept Plans** - The Planning and Zoning Commission shall be responsible for reviewing PUD Concept Plan applications and for making a recommendation on the application to the County Commission. (See [Article 30.7](Article_30_Development_Review_Procedures.md#307-planned-unit-developments))
+   1.   PUD Concept Plans The Planning and Zoning Commission shall be responsible for reviewing PUD Concept Plan applications and for making a recommendation on the application to the County Commission. (See [Article 30.7](Article_30_Development_Review_Procedures.md#307-planned-unit-developments))
 
-2. **Final PUD Plans** - The Planning and Zoning Commission shall be responsible for reviewing Final PUD Plan applications and for making a recommendation on the application to the County Commission. (See [Article 30.7](Article_30_Development_Review_Procedures.md#307-planned-unit-developments))
+        2.         Final PUD Plans The Planning and Zoning Commission shall be responsible for reviewing Final PUD Plan applications and for making a recommendation on the application to the County Commission. (See [Article 30.7](Article_30_Development_Review_Procedures.md#307-planned-unit-developments))
 
 ### E. Conditional Use Permits
-The Planning and Zoning Commission shall be responsible for reviewing Conditional Use Permit applications and for making a recommendation on the application to the County Commission. (See [Article 30.8](Article_30_Development_Review_Procedures.md#308-conditional-use-permits))
+The Planning and Zoning Commission shall be responsible for reviewing Conditional Use Permit applications and for making a recommendation on the application to the County Commission. (See [Article 30.9](Article_30_Development_Review_Procedures.md#308-conditional-use-permits))
 
 ### F. Vacations
-The Planning and Zoning Commission shall be responsible for reviewing Vacations (e.g. utility easements, rights-of-way) applications and for making a recommendation on the application to the County Commission. (See [Article 30.11](Article_30_Development_Review_Procedures.md#3011-vacations))
+The Planning and Zoning Commission shall be responsible for reviewing Vacations (e.g. utility easements, rights-of-way) applications and for making a recommendation on the application to the County Commission. (See [Article 30.12))
 
 ### G. Comprehensive Plan
 The Planning and Zoning Commission shall be responsible for reviewing amendments to the County Comprehensive Plan and recommending approval or denial to the County Commission.
@@ -82,12 +82,14 @@ Hearings of the Board of Zoning Adjustment shall be held at the call of the chai
 
 ### G. Powers and Duties
 
-1. **Variances** - The Board of Zoning Adjustment shall be responsible for reviewing Variance applications and for taking final action to approve or deny such applications. (See [Article 30.10](Article_30_Development_Review_Procedures.md#3010-variances))
+        1.        Variances
+The Board of Zoning Adjustment shall be responsible for reviewing Variance applications and for taking final action to approve or deny such applications. (See [Article 30.11))
 
-2. **Appeals of Administrative Decisions** - The Board of Zoning Adjustment shall be responsible for hearing all appeals of administrative decisions and for taking final action on such appeal. (See [Article 30.13](Article_30_Development_Review_Procedures.md#3013-appeals-of-administrative-decisions))
+        2.        Appeals of Administrative Decisions
+The Board of Zoning Adjustment shall be responsible for hearing all appeals of administrative decisions and for taking final action on such appeal. (See [Article 30.14-decisions))
 
 ### H. Appeals of the Board of Zoning Adjustment Decisions
-Appeals of the Board of Zoning Adjustment decisions shall be according to [Article 30.10D4](Article_30_Development_Review_Procedures.md#d-approval-criteria) and [30.13I](Article_30_Development_Review_Procedures.md#c-appeals).
+Appeals of the Board of Zoning Adjustment decisions shall be according to [Article 30.11D4 and 30.14I](Article_30_Development_Review_Procedures.md#c-appeals).
 
 ## 20.4 Planning and Zoning Administrator and Other Administrative Staff
 
@@ -103,5 +105,3 @@ A Technical Review Committee (TRC) reviews technical aspects of development, sig
 4. Ray County Road and Bridge Department representative
 5. Ray County Engineer or Public Works representative
 6. Special Road District representatives
-7. Ray County Health Department representative
-8. Other public/quasi-public agency representatives, as required for specific reviews.
