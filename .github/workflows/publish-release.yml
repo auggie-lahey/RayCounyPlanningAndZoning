@@ -123,6 +123,10 @@ jobs:
             for pattern, replacement in conversions.items():
                 content = re.sub(pattern, replacement, content)
             
+            # Convert definition terms from **Term** to ### Term format to create anchors
+            # This makes definition links like [street](#street) work properly
+            content = re.sub(r'^\*\*([^*]+)\*\* - (.+)$', r'### \1\n\2', content, flags=re.MULTILINE)
+            
             return content
         
         if __name__ == "__main__":
