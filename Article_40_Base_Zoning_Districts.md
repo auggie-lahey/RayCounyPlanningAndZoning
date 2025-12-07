@@ -116,6 +116,7 @@ The following standards shall apply to all development in the R-A district:
 | - Principal structures | 40 feet |
 | - Farm structures | No limit |
 | - Non-farm accessory structures | 30 feet |
+| **Accessory Structures** | Subject to 60.3B |
 
 For complete dimensional standards for all districts, see Section 40.16 below.
 
