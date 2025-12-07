@@ -641,14 +641,116 @@ The following table shows which uses are allowed in the B-1 district. For a summ
 - P = Permitted by-right
 - C = Allowed only if reviewed and approved as a Conditional Use (See [Article 30.9](Article_30_Development_Review_Procedures.md#309-conditional-use-permits))
 
+**Residential**
+
+| Use | Status | Notes |
+|-----|--------:|-------|
+| Congregate Living | C | |
+| Group Home, Class I (General) | C | |
+| Group Home, Class II | C | |
+| Multi-Unit Housing | P | Subject to 60.2Q |
+
+**Civic/Institutional**
+
+| Use | Status | Notes |
+|-----|--------:|-------|
+| Cemetery | C | RSMo.214 |
+| Club or Lodge | P | |
+| College or University | P | |
+| Convalescent Services | P | |
+| Cultural Services | P | |
+| Day Care, Group (6 and more children/adults) | P | |
+| Guidance Service | P | |
+| Hospital | C | |
+| Parks & Recreation | P | |
+| Postal Facility | C | |
+| Religious Assembly, standard | P | |
+| Religious Assembly, mega | P | |
+| Residential Treatment Facility | C | |
+| Safety Services | P | |
+| School, Primary | C | |
+| School, Secondary | C | |
+| Utility Service, Major | C | |
+| Utility Service, Minor | P | |
+
+**Commercial**
+
+| Use | Status | Notes |
+|-----|--------:|-------|
+| Animal Services | P | |
+| Bar or Lounge | P | |
+| Bed and Breakfast (B&B) | C | Subject to 60.2K |
+| Business or Trade School | P | |
+| Cabins | P | Subject to 60.2M |
+| Campground/Recreational Vehicle Park | P | Subject to 60.2N |
+| Communication Towers, Commercial | P | Subject to 60.2G |
+| Convenience Store | P | |
+| Financial Services, with drive-through | P | |
+| Financial Services, without drive-through | P | |
+| Firearm sales, retail | C | |
+| Food Sales | P | |
+| Funeral Services | P | |
+| Greenhouse, Wholesale | P | |
+| Greenhouse, Retail | P | |
+| Hotel-Motel | P | |
+| Kennel | C | |
+| Liquor Sales | P | |
+| Marina | P | |
+| Office | P | |
+| Parking, Commercial | P | |
+| Pawn Shop | P | |
+| Personal Improvement Service | P | |
+| Recreation & Entertainment, Indoor | P | |
+| Recreation & Entertainment, Outdoor | C | |
+| Recreational Equipment Storage, Commercial | P | Subject to 60.2R |
+| Repair Service, Consumer | P | |
+| Restaurant, Fast Food | P | |
+| Restaurant, General | P | |
+| Retail Sales & Service, Convenience | P | |
+| Retail Sales & Service, General | P | |
+| Service Station | C | |
+| Utility Trailer and Stock Sales | P | Subject to 60.2V |
+| Vehicle Repair, General | C | |
+| Vehicle Service, Limited | P | |
+
+**Agricultural and Other Uses**
+
+| Use | Status | Notes |
+|-----|--------:|-------|
+| Accessory Apartment | C | Subject to 60.3A |
+| Crop Production | P | |
+
 ### C. Density and Dimensional Standards
-See the table in Section 40.16 for complete standards.
+The following standards shall apply in the B-1 district:
+
+| Standard | Requirement |
+|----------|-------------|
+| Minimum lot size | 40,000 square feet |
+| Minimum lot width | 150 feet |
+| Maximum residential density | 10 units per acre |
+| Minimum front/street side setback | 25 feet |
+| Minimum interior side setback | 25 feet |
+| Minimum rear setback | 25 feet |
+| Maximum building height (principal/accessory) | 40/40 feet |
+| Maximum building cover | 70 percent |
+| Maximum gross floor area | 75,000 square feet |
 
 ### D. Other Regulations
+The following additional regulations shall apply in the B-1 district:
 
-1. No vehicle or equipment, other than a passenger vehicle or light truck, may be stored or parked in areas visible from off-site for more than 48 consecutive hours.
-2. Lighting sources shall be designed and located so that the direct source of the light is shielded from view at all property lines abutting residential or agricultural zoning districts.
-3. If a B-1 district abuts a residential or agricultural district, a solid screen fence of at least 6 feet in height, or equivalent landscaped buffer, may be required if deemed necessary by the County Commission upon recommendation of the Planning and Zoning Commission.
+1. Outdoor storage or display of equipment, materials and merchandise is prohibited.
+
+2. No vehicle or equipment, other than a passenger vehicle or light truck, may be stored or parked in areas visible from off-site for more than 48 consecutive hours.
+
+3. Lighting sources shall be designed and located so that the direct source of the light is shielded from view at all property lines abutting residential or agricultural zoning districts.
+
+4. Storage of items shall not constitute warehousing or distribution in the normal sense but shall be limited to that quantity of stock necessary to the normal administrative, service and sales functions.
+
+5. Any loading dock or loading area shall be fully screened from any property zoned agricultural or residential within 300 feet.
+
+6. Premises selling alcoholic or cereal malt beverages for onpremise consumption shall be located at least 200 feet from any property zoned residential or agricultural and 500 feet from buildings occupied as a church or school of general instruction. However, if any residential, church or school of general instruction use is established after such premises have been licensed for selling alcoholic or cereal malt beverages for onpremise consumption, then such premises shall be deemed to comply with this sub-Article for relicensing certification. Measurements shall be made between the exterior wall of the principal building in which alcoholic or cereal malt beverages are offered for onpremise consumption and the nearest property line of the existing property occupied as a church or school of general instruction or zoned residential or agricultural.
+
+7. If a B-1 district abuts a residential or agricultural district, a solid screen fence of at least 6 feet in height, or equivalent landscaped buffer, may be required if deemed necessary by the County Commission upon recommendation of the Planning and Zoning Commission.
 
 ## 40.12 B-2 General Business District
 
