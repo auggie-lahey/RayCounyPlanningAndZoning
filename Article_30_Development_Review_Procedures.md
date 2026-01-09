@@ -1,4 +1,4 @@
-# Article 30 - Development Review Procedures
+# Article 30 - Development Review Procedures (DEMO TEST)
 ## 30.1 General
 ### A. Authority to File Applications
 Applications for development approval under these Zoning Regulations may be filed by: the property owner of record, a purchaser under a contract for sale from the record owner, or the duly authorized agent of the record property owner. County officials shall be authorized to require proof of legal authority to take the action sought.
