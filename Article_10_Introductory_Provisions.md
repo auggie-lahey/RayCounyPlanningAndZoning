@@ -1,5 +1,5 @@
 # Article 10 - Introductory Provisions
-teststststt
+
 ## 10.1 Title
 This Title shall be officially known and cited as the "Zoning Regulations Ray County, Missouri." For convenience, it may be referred to simply as the "Zoning Regulations."
 
